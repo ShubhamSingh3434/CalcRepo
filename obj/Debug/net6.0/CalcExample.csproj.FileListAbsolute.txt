@@ -1,0 +1,14 @@
+C:\Users\91760\Downloads\Day 4\CalcExample\CalcExample\bin\Debug\net6.0\CalcExample.exe
+C:\Users\91760\Downloads\Day 4\CalcExample\CalcExample\bin\Debug\net6.0\CalcExample.deps.json
+C:\Users\91760\Downloads\Day 4\CalcExample\CalcExample\bin\Debug\net6.0\CalcExample.runtimeconfig.json
+C:\Users\91760\Downloads\Day 4\CalcExample\CalcExample\bin\Debug\net6.0\CalcExample.dll
+C:\Users\91760\Downloads\Day 4\CalcExample\CalcExample\bin\Debug\net6.0\CalcExample.pdb
+C:\Users\91760\Downloads\Day 4\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91760\Downloads\Day 4\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.AssemblyInfoInputs.cache
+C:\Users\91760\Downloads\Day 4\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.AssemblyInfo.cs
+C:\Users\91760\Downloads\Day 4\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.csproj.CoreCompileInputs.cache
+C:\Users\91760\Downloads\Day 4\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.dll
+C:\Users\91760\Downloads\Day 4\CalcExample\CalcExample\obj\Debug\net6.0\refint\CalcExample.dll
+C:\Users\91760\Downloads\Day 4\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.pdb
+C:\Users\91760\Downloads\Day 4\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.genruntimeconfig.cache
+C:\Users\91760\Downloads\Day 4\CalcExample\CalcExample\obj\Debug\net6.0\ref\CalcExample.dll
